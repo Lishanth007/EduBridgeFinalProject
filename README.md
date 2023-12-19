@@ -2,7 +2,8 @@
 
 Welcome to Shop Fiesta, an innovative e-commerce platform built with Angular and Spring Boot.
 
-![Shop Fiesta Logo](1.png)
+![Shop Fiesta Logo](EduBridgeFinalProject
+/1.png)
 
 ## Features
 
